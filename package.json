@@ -119,5 +119,5 @@
     "yarn": false,
     "contents": "./build",
     "message": "color-legend-element v%s"
-  },
+  }
 }
