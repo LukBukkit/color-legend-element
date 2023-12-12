@@ -120,7 +120,4 @@
     "contents": "./build",
     "message": "color-legend-element v%s"
   },
-  "engines": {
-    "node": "16.13.0"
-  }
 }
